@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalityModules", "HospitalityModule\HospitalityModules.csproj", "{10030321-79B6-48C6-A918-D82ABF762BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalityModulesTest", "HospitalityModulesTest\HospitalityModulesTest.csproj", "{AD2CA2FE-B90C-4AC6-B1D0-7481920D4D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10030321-79B6-48C6-A918-D82ABF762BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10030321-79B6-48C6-A918-D82ABF762BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10030321-79B6-48C6-A918-D82ABF762BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10030321-79B6-48C6-A918-D82ABF762BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2CA2FE-B90C-4AC6-B1D0-7481920D4D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2CA2FE-B90C-4AC6-B1D0-7481920D4D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2CA2FE-B90C-4AC6-B1D0-7481920D4D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2CA2FE-B90C-4AC6-B1D0-7481920D4D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7ADAFA-D966-48CB-925C-E8B6008EB1A7}
+	EndGlobalSection
+EndGlobal
